@@ -3,3 +3,7 @@
 -フロントエンド：React
 -バックエンド：PHP
 -AI：Python ※Flaskを使用
+
+画面一覧
+
+画面遷移
